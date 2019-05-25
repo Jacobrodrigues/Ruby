@@ -1,0 +1,3 @@
+source 'https://github.com/fnando/cpf_cnpj'
+
+gem 'cpf_cnpj'
